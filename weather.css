@@ -24,7 +24,7 @@ body{
     transform: translate(-50%, -50%);
     box-shadow: 5px 5px 5px #492135 ;
     overflow: scroll;
-    opacity: .8;
+    opacity: .9;
     border-radius: 1.2%;
   
 }
@@ -56,18 +56,18 @@ label{
     color: white;
 }
 
-button{
+button{ 
     border-radius: 1.2%;
     border: none;
-    background-color: #af095c;
-    color: white;
+    margin-top: 12px;
+    margin-bottom: 5px;
 }
 
 #icon{
-    display: block;
+    display:block;
     margin-left: auto;
     margin-right: auto;
-    height: 80px;
-    width: 80px;;
+   
+   
     
 }
